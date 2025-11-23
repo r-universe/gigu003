@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/gigu003/gigu003.r-universe.dev
 	branch = HEAD
+[submodule "canregtools"]
+	path = canregtools
+	url = https://github.com/gigu003/canregtools
