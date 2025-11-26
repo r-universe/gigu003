@@ -5,3 +5,6 @@
 [submodule "canregtools"]
 	path = canregtools
 	url = https://github.com/gigu003/canregtools
+[submodule "crformats"]
+	path = crformats
+	url = https://github.com/gigu003/crformats
