@@ -8,3 +8,6 @@
 [submodule "crformats"]
 	path = crformats
 	url = https://github.com/gigu003/crformats
+[submodule "ltRISK"]
+	path = ltRISK
+	url = https://github.com/gigu003/ltRISK
